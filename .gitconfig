@@ -1,0 +1,15 @@
+[core]
+	editor = vim
+  filemode = true
+	excludesfile = ~/.gitignore
+[user]
+	name = Huy Nguyen
+	email = nguyen.dang.huy@framgia.com
+[color]
+	ui = true
+  branch = true
+  diff = true
+  interactive = true
+  status = true
+[push]
+	default = current
