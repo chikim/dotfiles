@@ -36,3 +36,4 @@ let g:phpqa_messdetector_cmd='/path/to/phpmd'
 let g:phpqa_messdetector_autorun = 0
 set fileencodings=ucs-bom,iso-2022-jp-3,iso-2022-jp,eucjp-ms,euc-jisx0213,euc-jp,sjis,cp932,utf-8
 set omnifunc=phpcomplete#CompletePHP
+set colorcolumn=80
