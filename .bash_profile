@@ -23,5 +23,5 @@ export LC_CTYPE=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 
 LS_COLORS='di=32'
-export PS1="\w \$ "
+export PS1="\[\e[1;96m\]\w \$\[\e[m\] "
 eval "$(hub alias -s)"
